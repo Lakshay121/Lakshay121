@@ -2,7 +2,8 @@
 - 👀 I’m interested in devlopment
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me from mail 
+- 📫 You can reach me from mail [lakshaysharma9001@gmail.com]
+
 
 <!---
 Lakshay121/Lakshay121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
