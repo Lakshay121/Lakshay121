@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshay121
 - 👀 I’m interested in devlopment
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning java amd python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me from mail [lakshaysharma9001@gmail.com]
 
